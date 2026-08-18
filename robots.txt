@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-6g7iyi.hsteamid.com/sitemap.xml
